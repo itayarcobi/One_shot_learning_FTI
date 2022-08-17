@@ -6,3 +6,5 @@ File-type Identification is the task of assigning a predefined label (the file t
 One-Shot File-type Identification is a method in which the classifier can assign every file it's predefined label
 after "seeing" the same type of file a few times or only once.
 
+https://user-images.githubusercontent.com/74408266/185069444-c11e8d1f-e3f5-4dae-a51c-c251e8de0753.PNG
+
